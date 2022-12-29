@@ -1,0 +1,26 @@
+.container {
+  margin: auto;
+  max-width: 500px;
+  font-family: sans-serif;
+}
+
+.navLinks {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  padding: 0px;
+}
+
+.navLinksItem {
+  list-style: none;
+  padding-right: 20px;
+  text-decoration: none !important;
+}
+
+.navLinksText {
+  color: #0c243c !important;
+}
+
+.h1 {
+  color: #8a4baf;
+}
